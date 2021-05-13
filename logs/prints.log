@@ -1,0 +1,3 @@
+16:39:11.161 [TestNG-tests-1] INFO  BDD.com.packages.HomeTest - Navigated tohttps://www.goindigo.in/
+16:39:11.228 [TestNG-tests-1] INFO  BDD.com.packages.HomeTest - Title is Book Domestic & International Flights at Lowest Airfare - IndiGo
+16:39:11.228 [TestNG-tests-1] INFO  BDD.com.packages.HomeTest - Assertion is completed

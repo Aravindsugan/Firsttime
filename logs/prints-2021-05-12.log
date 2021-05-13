@@ -1,0 +1,6 @@
+16:38:47.521 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x5d14e5bcd9009c91
+16:38:47.801 [TestNG-tests-2] INFO  BDD.com.packages.Validation - Driver initialized
+16:38:48.129 [TestNG-tests-1] INFO  BDD.com.packages.HomeTest - Driver initialized
+16:39:06.210 [TestNG-tests-2] INFO  BDD.com.packages.Validation - Navigated tohttps://www.goindigo.in/
+16:39:06.957 [TestNG-tests-2] INFO  BDD.com.packages.Validation - signin successfull
+16:39:10.248 [TestNG-tests-2] INFO  BDD.com.packages.Validation - Login clicked
