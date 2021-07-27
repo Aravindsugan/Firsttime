@@ -21,7 +21,7 @@ public class HomePage {
 	@FindBy (css="a[data-login-type='loginModal']") WebElement signin;
 	@FindBy (xpath="//*[@id=\"sme-profile-login-container\"]/a/span/span/span") WebElement profile;
 	public WebElement getLogin() {
-		int k;
+		int k;//test
 		return login;
 	}
 	public WebElement getSignin() {
